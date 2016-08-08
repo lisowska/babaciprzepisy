@@ -1,0 +1,54 @@
+
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+html{
+	background:url("Fotolia_74493019_M2.jpg") no-repeat ;
+	background-size: cover;
+	font-family:'Slabo 27px', cursive;
+}
+#menu{
+	text-align:center;
+	height:34px;
+	padding-top:0px;
+	}
+
+nav ul{
+	list-style: none;
+	
+}
+
+nav ul li a{
+	text-decoration: none;
+	color:black;
+	font-size:22px;
+	padding-right:40px;
+	
+}
+nav ul li {
+	
+	display:inline-block;
+}
+header{
+	background-color:#ffffcc;
+}
+.main{
+	text-align:center;
+	font-size:20 px;
+	color: black;
+	padding-top:26px;
+	padding-bottom:20px;
+	float:right;
+	width:500px;
+	padding-right:200px;
+	position:fixed;
+	top:0;
+	bottom:0;
+	right:0;
+	 background-color: rgba(0,0,0,0.2);
+    z-index: -1;
+    box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
+	
+}
+.title{
+	font-size: 100px;
+	float:right;
+}
