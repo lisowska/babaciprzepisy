@@ -5,6 +5,10 @@ html{
 	background-size: cover;
 	font-family:'Slabo 27px', cursive;
 }
+*{
+	font-family:'Slabo 27px', cursive;
+}
+
 #menu{
 	text-align:center;
 	height:34px;
@@ -46,8 +50,15 @@ header{
 	 background-color: rgba(0,0,0,0.2);
     z-index: -1;
     box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
-	
 }
+.kontakt{
+	padding-top:100px;
+}
+.inputfield{
+	background-color: rgba(0,0,0,0.2);
+	border-width:0px;
+}
+
 .title{
 	font-size: 100px;
 	float:right;
